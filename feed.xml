@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Jan 2021 02:16:35 -0600</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2021 02:16:35 -0600</lastBuildDate>
+    <pubDate>Tue, 05 Jan 2021 02:20:31 -0600</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2021 02:20:31 -0600</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -32,12 +32,12 @@ Productivity&lt;/p&gt;
 The thought process involved in OOP may not be natural for some people, and it will take the time to get used to it. &lt;br /&gt;
 It is a confused concept, when getting into some scenarios, it’s very hard to get everyone to agree what it is exactly. &lt;br /&gt;
 It limits your options about how you think about solutions to a problem.&lt;br /&gt;
-Type systems are extremely useful in modern software engineering, but wrapping type systems into OOP systems is still not a good idea. The untyped OOP   languages require 10x more testing to achieve comparable reliability and are extremely slow.
-Most of the GoF design patterns are lack of functional programming.
-The size of programmes developed with OOP is larger than the procedural approach.
-Since larger in size, that means more instruction to be executed, which results in the slower execution of programmes.
-Diamond inheritance problems (also happens in abstract/traits/interfaces)
-The Real World is actually not made up of objects.&lt;/p&gt;
+Type systems are extremely useful in modern software engineering, but wrapping type systems into OOP systems is still not a good idea. The untyped OOP   languages require 10x more testing to achieve comparable reliability and are extremely slow.&lt;br /&gt;
+Most of the GoF design patterns are lack of functional programming.&lt;br /&gt;
+The size of programmes developed with OOP is larger than the procedural approach.&lt;br /&gt;
+Since larger in size, that means more instruction to be executed, which results in the slower execution of programmes.&lt;br /&gt;
+Diamond inheritance problems (also happens in abstract/traits/interfaces)&lt;br /&gt;
+&lt;strong&gt;The Real World is actually not made up of objects.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;However, so far the advantages of OOP always dominate upon the limitations of it.&lt;/p&gt;
 
