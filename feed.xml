@@ -5,9 +5,98 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Dec 2020 04:52:41 -0600</pubDate>
-    <lastBuildDate>Tue, 08 Dec 2020 04:52:41 -0600</lastBuildDate>
+    <pubDate>Tue, 05 Jan 2021 02:16:35 -0600</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2021 02:16:35 -0600</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>Object Oriented Programming (OOP)</title>
+        <description>&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Programming is a method using instructions to manipulate data.
+Object is a kind of data structures that has attributes and behaviors.
+Attributes can be some data, such as variables, related to the object.
+Behaviors are methods/functions can be used by the object.&lt;/p&gt;
+
+&lt;p&gt;The Real World is made up of objects.&lt;br /&gt;
+The purpose of OOP is to make programmers focus more on manipulating objects rather than the underlying logic required to manipulate them.&lt;br /&gt;
+The method also benefits collaborative development where projects are large, complex and actively updated or maintained.&lt;/p&gt;
+
+&lt;h2 id=&quot;pros-and-cons&quot;&gt;Pros and Cons&lt;/h2&gt;
+&lt;p&gt;The advantages:&lt;br /&gt;
+Re-usability&lt;br /&gt;
+Code Maintenance.&lt;br /&gt;
+Productivity&lt;/p&gt;
+
+&lt;p&gt;The disadvantages:&lt;br /&gt;
+The thought process involved in OOP may not be natural for some people, and it will take the time to get used to it. &lt;br /&gt;
+It is a confused concept, when getting into some scenarios, it’s very hard to get everyone to agree what it is exactly. &lt;br /&gt;
+It limits your options about how you think about solutions to a problem.&lt;br /&gt;
+Type systems are extremely useful in modern software engineering, but wrapping type systems into OOP systems is still not a good idea. The untyped OOP   languages require 10x more testing to achieve comparable reliability and are extremely slow.
+Most of the GoF design patterns are lack of functional programming.
+The size of programmes developed with OOP is larger than the procedural approach.
+Since larger in size, that means more instruction to be executed, which results in the slower execution of programmes.
+Diamond inheritance problems (also happens in abstract/traits/interfaces)
+The Real World is actually not made up of objects.&lt;/p&gt;
+
+&lt;p&gt;However, so far the advantages of OOP always dominate upon the limitations of it.&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Abstraction&lt;/li&gt;
+  &lt;li&gt;Encapsulation&lt;/li&gt;
+  &lt;li&gt;Polymorphism&lt;/li&gt;
+  &lt;li&gt;Inheritance&lt;/li&gt;
+  &lt;li&gt;Association
+    &lt;ol&gt;
+      &lt;li&gt;Aggregation&lt;/li&gt;
+      &lt;li&gt;Composition&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reusability&lt;/li&gt;
+  &lt;li&gt;Objects and Classes&lt;/li&gt;
+  &lt;li&gt;Data Hiding&lt;/li&gt;
+  &lt;li&gt;Open recursion&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;principles&quot;&gt;Principles&lt;/h2&gt;
+&lt;p&gt;SOLID&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Single-responsibility principle&lt;/li&gt;
+  &lt;li&gt;Open–closed principle&lt;/li&gt;
+  &lt;li&gt;Liskov substitution principle&lt;/li&gt;
+  &lt;li&gt;Interface segregation principle&lt;/li&gt;
+  &lt;li&gt;Dependency inversion principle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;GRASP - General Responsibility Assignment Software Patterns&lt;/p&gt;
+
+&lt;h2 id=&quot;pipline&quot;&gt;Pipline&lt;/h2&gt;
+&lt;p&gt;The first step in OOP is to collect all of the objects a programmer wants to manipulate and identify how they relate to each other - an exercise often known as data modeling.&lt;br /&gt;
+Once an object is known, it is labeled with a class of objects that defines the kind of data it contains and any logic sequences that can manipulate it. Each distinct logic sequence is known as a method. &lt;br /&gt;
+Objects communicate with well-defined interfaces called messages.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;p&gt;https://en.wikipedia.org/wiki/Object-oriented_programming&lt;br /&gt;
+https://en.wikipedia.org/wiki/Programming_paradigm&lt;br /&gt;
+https://en.wikipedia.org/wiki/SOLID&lt;br /&gt;
+https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)&lt;br /&gt;
+https://en.wikipedia.org/wiki/Multiple_inheritance&lt;br /&gt;
+https://www.tutorialspoint.com/what-is-diamond-problem-in-case-of-multiple-inheritance-in-java&lt;br /&gt;
+https://en.wikipedia.org/wiki/Data_modeling&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2021/01/04/object-oriented-programming/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/04/object-oriented-programming/</guid>
+        
+        <category>OOP</category>
+        
+        <category>programming paradigm</category>
+        
+        <category>programmming</category>
+        
+        
+      </item>
     
       <item>
         <title>Research Topics of Cryptography</title>
